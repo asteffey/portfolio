@@ -10,11 +10,11 @@ const useProjects = () => {
       .then(response => response.json())
       .then((data: Project[]) => {
         setProjects(
-            data.map(({ name, ...other }) => ({
-              ...other,
-              id: toId(name),
-              name
-            }))
+          data.map(({ name, ...other }) => ({
+            ...other,
+            id: toId(name),
+            name
+          }))
         )
       }).catch(error => console.error(error))
   }, [])
