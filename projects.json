@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Portfolio Finder",
+    "description": "A library identify an optimal portfolio allocation through back-testing.",
+    "tags": [
+      "Python",
+      "Pandas"
+    ],
+    "github": "https://github.com/asteffey/portfolio-finder",
+    "image": "https://user-images.githubusercontent.com/23619800/84746213-a4484e00-af83-11ea-9ee6-da2d6330a4b9.png"
+  },
+  {
+    "name": "Random Quote Machine",
+    "description": "A random quote machine which contemplates its own subjective existence.",
+    "tags": [
+      "React",
+      "Redux",
+      "JavaScript"
+    ],
+    "github": "https://github.com/asteffey/fcc-random-quote-machine",
+    "website": "https://asteffey.github.io/fcc-random-quote-machine"
+  },
+  {
+    "name": "Map of U.S. Education Attainment",
+    "description": "A choropleth map of U.S. education attainment data.",
+    "tags": [
+      "React",
+      "Javascript",
+      "D3"
+    ],
+    "github": "https://github.com/asteffey/fcc-exercise-tracker",
+    "website": "https://asteffey.github.io/fcc-choropleth-map/"
+  },
+  {
+    "name": "GDP Area Chart",
+    "description": "An area chart of GDP data from 1946 to 2015.",
+    "tags": [
+      "React",
+      "Javascript",
+      "D3"
+    ],
+    "github": "https://github.com/asteffey/fcc-bar-chart",
+    "website": "https://asteffey.github.io/fcc-bar-chart/"
+  },
+  {
+    "name": "Markdown Previewer",
+    "description": "A Markdown previewer which lets to you view your changes in real-time.",
+    "tags": [
+      "React",
+      "JavaScript"
+    ],
+    "github": "https://github.com/asteffey/fcc-markdown-previewer",
+    "website": "https://asteffey.github.io/fcc-markdown-previewer"
+  },
+  {
+    "name": "Pomodoro Clock",
+    "description": "A Pomodoro clock, to help manage your time.",
+    "tags": [
+      "React",
+      "JavaScript"
+    ],
+    "github": "https://github.com/asteffey/fcc-pomodoro-clock",
+    "website": "https://asteffey.github.io/fcc-pomodoro-clock"
+  },
+  {
+    "name": "URL Shortener Microservice",
+    "description": "A URL shortener API.",
+    "tags": [
+      "Node",
+      "Express",
+      "Typescript",
+      "Jest"
+    ],
+    "github": "https://github.com/asteffey/fcc-url-shortener-microservice",
+    "website": "https://asteffey-url-shortener.herokuapp.com/"
+  },
+  {
+    "name": "freeCodeCamp Projects",
+    "description": "A collection of projects completed under freeCodeCamp.",
+    "tags": [
+      "HTML",
+      "React",
+      "Node",
+      "Javascript",
+      "D3"
+    ],
+    "github": "https://github.com/asteffey/freecodecamp",
+    "website": "https://asteffey.github.io/freecodecamp"
+  }
+]
+
+
