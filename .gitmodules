@@ -1,0 +1,60 @@
+[submodule "responsive-web-design/fcc-personal-portfolio-webpage"]
+	path = responsive-web-design/fcc-personal-portfolio-webpage
+	url = https://github.com/asteffey/fcc-personal-portfolio-webpage.git
+[submodule "responsive-web-design/fcc-product-landing-page"]
+	path = responsive-web-design/fcc-product-landing-page
+	url = https://github.com/asteffey/fcc-product-landing-page.git
+[submodule "responsive-web-design/fcc-survey-form"]
+	path = responsive-web-design/fcc-survey-form
+	url = https://github.com/asteffey/fcc-survey-form.git
+[submodule "responsive-web-design/fcc-technical-documentation-page"]
+	path = responsive-web-design/fcc-technical-documentation-page
+	url = https://github.com/asteffey/fcc-technical-documentation-page.git
+[submodule "responsive-web-design/fcc-tribute-page"]
+	path = responsive-web-design/fcc-tribute-page
+	url = https://github.com/asteffey/fcc-tribute-page.git
+[submodule "data-visualization-projects/fcc-bar-chart"]
+	path = data-visualization-projects/fcc-bar-chart
+	url = https://github.com/asteffey/fcc-bar-chart.git
+[submodule "data-visualization-projects/fcc-choropleth-map"]
+	path = data-visualization-projects/fcc-choropleth-map
+	url = https://github.com/asteffey/fcc-choropleth-map.git
+[submodule "data-visualization-projects/fcc-heat-map"]
+	path = data-visualization-projects/fcc-heat-map
+	url = https://github.com/asteffey/fcc-heat-map.git
+[submodule "data-visualization-projects/fcc-scatterplot-graph"]
+	path = data-visualization-projects/fcc-scatterplot-graph
+	url = https://github.com/asteffey/fcc-scatterplot-graph.git
+[submodule "data-visualization-projects/fcc-treemap-diagram"]
+	path = data-visualization-projects/fcc-treemap-diagram
+	url = https://github.com/asteffey/fcc-treemap-diagram.git
+[submodule "front-end-libraries-projects/fcc-drum-machine"]
+	path = front-end-libraries-projects/fcc-drum-machine
+	url = https://github.com/asteffey/fcc-drum-machine.git
+[submodule "front-end-libraries-projects/fcc-javascript-calculator"]
+	path = front-end-libraries-projects/fcc-javascript-calculator
+	url = https://github.com/asteffey/fcc-javascript-calculator.git
+[submodule "front-end-libraries-projects/fcc-markdown-previewer"]
+	path = front-end-libraries-projects/fcc-markdown-previewer
+	url = https://github.com/asteffey/fcc-markdown-previewer.git
+[submodule "front-end-libraries-projects/fcc-pomodoro-clock"]
+	path = front-end-libraries-projects/fcc-pomodoro-clock
+	url = https://github.com/asteffey/fcc-pomodoro-clock.git
+[submodule "front-end-libraries-projects/fcc-random-quote-machine"]
+	path = front-end-libraries-projects/fcc-random-quote-machine
+	url = https://github.com/asteffey/fcc-random-quote-machine.git
+[submodule "apis-and-microservices-projects/fcc-exercise-tracker"]
+	path = apis-and-microservices-projects/fcc-exercise-tracker
+	url = https://github.com/asteffey/fcc-exercise-tracker.git
+[submodule "apis-and-microservices-projects/fcc-file-metadata-microservice"]
+	path = apis-and-microservices-projects/fcc-file-metadata-microservice
+	url = https://github.com/asteffey/fcc-file-metadata-microservice.git
+[submodule "apis-and-microservices-projects/fcc-url-shortener-microservice"]
+	path = apis-and-microservices-projects/fcc-url-shortener-microservice
+	url = https://github.com/asteffey/fcc-url-shortener-microservice.git
+[submodule "apis-and-microservices-projects/fcc-request-header-parser-microservice"]
+	path = apis-and-microservices-projects/fcc-request-header-parser-microservice
+	url = https://github.com/asteffey/fcc-request-header-parser-microservice.git
+[submodule "apis-and-microservices-projects/fcc-timestamp-microservice"]
+	path = apis-and-microservices-projects/fcc-timestamp-microservice
+	url = https://github.com/asteffey/fcc-timestamp-microservice.git
